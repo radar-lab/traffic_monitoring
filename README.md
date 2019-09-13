@@ -6,3 +6,4 @@ Intelligent transportation systems (ITS) significantly change our communities by
 This project will investigate a low-cost, low-weight, compact size, and reliable monitoring platform. This platform that incorporates mmWave radar and the machine learning technique to collect multimodal traffic data at intersections is robust to light and adverse weather conditions. The products of this project consists of 1) a prototype of the proposed multimodal traffic monitoring platform using mmWave radar, 2) the real-world experimental dataset collected by the platform for multimodal traffic, and 3) a demo platform at a road intersection to illustrate the performance in terms of measuring multimodal traffic counts, speeds, and directions.  
 
 ## Porject Concept
+![ADAS](https://github.com/radar-lab/blob/master/report/project_concept.png)
