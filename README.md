@@ -8,5 +8,3 @@ This project will investigate a low-cost, low-weight, compact size, and reliable
 ## Porject Concept
 ![project_concept](https://github.com/radar-lab/traffic_monitoring/blob/master/report/project_concept.png)
 
-## Proposed System
-![proposed_system](https://github.com/radar-lab/traffic_monitoring/blob/master/report/proposed_system.jpg)
