@@ -10,3 +10,5 @@ To evaluate the claimed advantages of the proposed radar-based method in this pr
 ![project_concept](https://github.com/radar-lab/traffic_monitoring/blob/master/report/project_concept.png)
 The proposed monitoring platform will be able to collect traffic count, speed and classification data on all lanes at the intersections for each traffic mode in real-time, and also create automatic traffic statistical reports for traffic planners for later analysis. In this project, a demonstrable version of multimodal traffic monitoring platform will be developed at an intersection covered with a wide field of view. The demo system as shown in the figure above will be built to demonstrate the performance of the multimodal monitoring in real time.
 
+## This project is funded by National Institute for Transportation and Communities (NITC)
+![project_concept](https://github.com/radar-lab/traffic_monitoring/blob/master/report/NITC.png)
