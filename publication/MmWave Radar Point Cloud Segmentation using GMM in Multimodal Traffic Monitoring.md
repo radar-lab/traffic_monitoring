@@ -6,4 +6,4 @@ This paper is about our preliminary methods and results, which is about how to u
 This paper has been submiited to IEEE International Radar Conference 2020.
 
 ## How to access
-Please visit Arxiv to access the preprint version: https://arxiv.org/abs/1911.06364
+Please visit Arxiv to access the preprint version: https://arxiv.org/abs/1911.06364.
