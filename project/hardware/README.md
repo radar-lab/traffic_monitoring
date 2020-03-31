@@ -8,7 +8,7 @@ MmWave Radar Sensor: Texas Instrument AWR1843BOOST http://www.ti.com/tool/AWR184
 
 USB Camera: https://www.amazon.com/180degree-Fisheye-Camera-usb-Android-Windows/dp/B00LQ854AG
 
-![camera](https://github.com/radar-lab/traffic_monitoring/blob/master/project/hardware/Camera.jpg)
+![camera](https://github.com/radar-lab/traffic_monitoring/blob/master/project/hardware/usbcamera.jpg)
 
 Embedded Processor: Nvidia Graphics Processing Unit (GPU) Jetson Nano https://developer.nvidia.com/embedded/jetson-nano-developer-kit
 
