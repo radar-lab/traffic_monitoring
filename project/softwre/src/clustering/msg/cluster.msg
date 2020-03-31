@@ -1,0 +1,11 @@
+uint16 frame_idx
+uint16 target_idx
+uint16 target_class
+uint16 predict_class
+uint16 point_id
+float32 range
+float32 angle
+float32 elev
+float32 doppler
+uint16 snr
+uint16 noise

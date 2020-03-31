@@ -1,0 +1,25 @@
+*********************************************************************************************************************
+rosbag record /traffic_monitoring/radar_scan -b -0 -O file_name.bag
+rosbag record /traffic_monitoring/radar_scan /traffic_monitoring/radar_scan_markers /usb_webcam/image_raw/compressed -b -0 -O file_name.bag
+*********************************************************************************************************************
+First, record the markers for display, then run:
+roscore
+rosbag play ./data.bag
+rosrun rviz rviz -d radar_det_obj_color_by_intensity.rviz
+*********************************************************************************************************************
+rostopic echo --filter "m.{the_variable}<253" /traffic_monitoring/radar_scan
+*********************************************************************************************************************
+rosbag filter seizure5_4.bag ./processed/seizure5_4.bag "(t.secs>=1538894872.69)&(t.secs<=1538894894.04)"
+*********************************************************************************************************************
+source ${Project_Directory}/ti_ros/devel/setup.bash
+source ~/.bashrc
+*********************************************************************************************************************
+Rebuild:
+delete the /build and /devel folders
+catkin_make clean
+catkin_make
+*********************************************************************************************************************
+sudo chmod 666 /dev/ttyACM0
+sudo chmod 666 /dev/ttyACM1
+roslaunch traffic_monitoring traffic_monitoring.launch
+*********************************************************************************************************************
