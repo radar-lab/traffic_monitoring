@@ -1,3 +1,6 @@
+## 3D Printed
+This folder contains the source files for 3D printed framework that holds all the hardware.
+
 ## Hardware information
 MmWave Radar Sensor: Texas Instrument AWR1843BOOST http://www.ti.com/tool/AWR1843BOOST
 
