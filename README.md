@@ -7,11 +7,11 @@ This project will investigate a low-cost, low-weight, compact size, and reliable
 To evaluate the claimed advantages of the proposed radar-based method in this project, a comprehensive real-world traffic data during various time periods, e.g., daytime and nighttime,  and various weather conditions will be collected. In addition, a dataset will be built for sharing among researchers and an analysis tool will also be developed to help others evaluate the potential benefits of our approach for improving the multimodal traffic monitoring.
 
 ## Project Concept
-![project_concept](https://github.com/radar-lab/traffic_monitoring/blob/master/report/project_experiment.png)
+![project_concept](https://github.com/radar-lab/traffic_monitoring/blob/master/report/project_concept.png)
 The proposed monitoring platform will be able to collect traffic count, speed and classification data on all lanes at the intersections for each traffic mode in real-time, and also create automatic traffic statistical reports for traffic planners for later analysis. In this project, a demonstrable version of multimodal traffic monitoring platform will be developed at an intersection covered with a wide field of view. The demo system as shown in the figure above will be built to demonstrate the performance of the multimodal monitoring in real time.
 
 ## Experiment
-![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/project_concept.png)
+![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/experiment.png)
 The outcome of this project has been organized as a conference paper, which has been accpeted by the IEEE International Radar Conference 2020.
 Please refer to the preprint version for details: https://arxiv.org/abs/1911.06364.
 
