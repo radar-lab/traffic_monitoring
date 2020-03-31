@@ -12,6 +12,7 @@ The proposed monitoring platform will be able to collect traffic count, speed an
 
 ## Experiment
 ![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/experiment.png)
+
 The outcome of this project has been organized as a conference paper, which has been accpeted by the IEEE International Radar Conference 2020. Please refer to the preprint version for details: https://arxiv.org/abs/1911.06364.
 
 ## This project is funded by National Institute for Transportation and Communities (NITC)
