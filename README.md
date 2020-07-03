@@ -12,10 +12,13 @@ The proposed monitoring platform will be able to collect traffic count, speed an
 
 ## Experiment
 Experiment in a parking lot:
+
 ![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/experiment.png)
+
 Experiment at a traffic intersection:
-![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/realdata_setup1.png)
-![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/realdata_setup2.png)
+
+![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/realdata_setup1.jpg)
+![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/realdata_setup2.jpg)
 
 ## Segmentation Results
 ![results](https://github.com/radar-lab/traffic_monitoring/blob/master/report/result.jpg)
