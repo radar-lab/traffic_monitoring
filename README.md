@@ -11,7 +11,7 @@ To evaluate the claimed advantages of the proposed radar-based method in this pr
 The proposed monitoring platform will be able to collect traffic count, speed and classification data on all lanes at the intersections for each traffic mode in real-time, and also create automatic traffic statistical reports for traffic planners for later analysis. In this project, a demonstrable version of multimodal traffic monitoring platform will be developed at an intersection covered with a wide field of view. The demo system as shown in the figure above will be built to demonstrate the performance of the multimodal monitoring in real time.
 
 ## Experiment
-Please refer to  ~/traffic_monitoring/data/README for data collection instructions.\
+Please refer to  ~/traffic_monitoring/data/README for __data collection instructions__.\
 Experiment in a parking lot (refer to ~/traffic_monitoring/data/training/ for the collected data):\
 ![project_experiment](https://github.com/radar-lab/traffic_monitoring/blob/master/report/experiment.png)\
 Experiment at a traffic intersection (refer to ~/traffic_monitoring/data/data_intersection/ for the collected data):\
