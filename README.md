@@ -1,5 +1,5 @@
 ## Project Title
-Development of Intelligent Multimodal Traffic Monitoring using Radar Sensor at Intersections.
+Development of Intelligent Multimodal Traffic Monitoring using Radar Sensor at Intersections
 
 ## Project Discription
 Intelligent transportation systems (ITS) significantly change our communities by improving the safety and convenience of people’s daily mobility. The system relies on multimodal traffic monitoring, that needs to provide reliable, efficient and detailed traffic information for traffic safety and planning. Signalized traffic intersections are critical spots for collecting such mix-traffc data because the most conflicts and crash occurrences involve multiple transportation modes, such as pedestrians, bicyclists, motorcyclists, and cars. How to reliably and intelligently monitor intersection traffic with multimodal information is one of the most critical topics in intelligent transportation research.  
