@@ -23,7 +23,7 @@ The real-world data collected at a traffic intersection. The total data time dur
 10.	Now, you can control Jetson Nano remotely.
 11.	To open the radar, execute the commands:
 > sudo chmod 666 /dev/ttyACM0\
-> sudo chmod 666 /dev/ttyACM0\
+> sudo chmod 666 /dev/ttyACM1\
 > roslaunch traffic_monitoring traffic_monitoring.launch
 12.	To record the radar data on USB stick, you first need to insert the USB stick in Jetson Nano. And switch to USB stick folder. And then execute the command:
 > rosbag record /traffic_monitoring/radar_scan /traffic_monitoring/radar_scan_markers /usb_webcam/image_raw/compressed -b -0 -O file_name.bag
